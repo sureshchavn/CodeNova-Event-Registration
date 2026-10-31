@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://codenova-event-registration.onrender.com/api";
 
 const categories = [
   "All", "Technology", "Workshop", "Seminar",
